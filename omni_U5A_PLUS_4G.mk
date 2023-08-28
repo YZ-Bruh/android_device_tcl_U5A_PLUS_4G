@@ -19,10 +19,3 @@ PRODUCT_NAME := omni_U5A_PLUS_4G
 PRODUCT_BRAND := TCL
 PRODUCT_MODEL := 5052Y
 PRODUCT_MANUFACTURER := tcl
-
-PRODUCT_GMS_CLIENTID_BASE := android-alcatel
-
-PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRIVATE_BUILD_DESC="full_u5a_plus_o1-user 8.1.0 O11019 v6J5S-0 release-keys"
-
-BUILD_FINGERPRINT := TCL/full_u5a_plus/u5a_plus:8.1.0/O11019/v6J5S-0:user/release-keys
